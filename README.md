@@ -1,4 +1,4 @@
-# The goal of this project is to show how different campaigns fared in the Kickstarter program.The purpose is to show results based on a launch date or a goals set on the funding, and to give Louise enough detailed information to produce more successful programs.
+## The goal of this project is to show how different campaigns fared in the Kickstarter program.The purpose is to show results based on a launch date or a goals set on the funding, and to give Louise enough detailed information to produce more successful programs.
 
 ### The analysis was performed using the Kickstarter dataset. Information was pulled from the dataset to show results that can be narrowed down to a specific item. We can show a location and all successful plays from that location, or we can check goals and compare to pledged. Using pivot tables information can be gleaned, and necessary to make educated business decisions and produce more plays that can become successful. A possible challenge would be to narrow the search to a region within a country.
 
