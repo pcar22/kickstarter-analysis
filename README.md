@@ -1,4 +1,4 @@
-## The aim of this project is to demonstrate the performance of various Kickstarter campaigns, by analyzing their launch dates or funding goals. The objective is to provided Louise with comprehensive data that can be utilized to create more effective programs.  
+## The aim of this project is to demonstrate the performance of various Kickstarter campaigns, by analyzing their launch dates or funding goals. The objective is to provide Louise with comprehensive data that can be utilized to create more effective programs.  
 
 ### The Kickstarter dataset was utilized to conduct the analysis. Relevant information was extracted from the dataset to generate specific results. For instance, data can be filtered by location to showcase successful plays in that area, or by comparing funding goals to the amount pledged. Pivot tables were utilized to extract pertinent information, which is crucial for making informed business decisions and developing successful plays. However, a potential challenge could be restricting the search to a particular region within a country.
 
