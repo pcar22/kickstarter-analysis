@@ -4,7 +4,7 @@
 
 ### As depicted in the chart titled **Theater Outcomes by Launch Date** below, there is a correlation between the number of successful plays and the season of launch. During spring, the number of successful plays increases along with the total number of plays launched, while the number of failures also rises. Conversely, as we approach winter, the percentage of successful plays declines. Based on this data, it can be inferred that plays tend to have better success rates during spring, but this trend starts to decline during summer.
 ![Outcomes Based on Launch Date](https://github.com/pcar22/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
-### The chart titled **Outcomes based on Goals** below demonstrates the patterns relating to funding goals. It reveals that beyond a certain dollar amount, the goals tend to be unsuccessful. On the other hand, the most successful plays fall within the range of $1000 to $4999.
+### The chart titled **Outcomes based on Goal** below demonstrates the patterns relating to funding goals. It reveals that beyond a certain dollar amount, the goals tend to be unsuccessful. On the other hand, the most successful plays fall within the range of $1000 to $4999.
 ![Outcomes_vs_Goals](https://github.com/pcar22/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 ## The dataset has certain limitations, such as the absence of regional information. To overcome this limitation, we could create a table that displays the average donation per funding goal. Additionally, we could run a table that indicates the optimal funding goal based on the month of the year. 
 
